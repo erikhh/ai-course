@@ -1,0 +1,10 @@
+# Images
+*.bmp
+*.gif
+*.jpeg
+*.jpg
+*.png
+*.webp
+
+# Trained models
+*.pk1
